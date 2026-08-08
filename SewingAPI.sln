@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingAPI", "SewingAPI\SewingAPI.csproj", "{ED729BFD-DDB1-48DD-BE1D-BCB87DEBDF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingAPI.Domain", "SewingAPI.Domain\SewingAPI.Domain.csproj", "{FE4D9F56-F76A-4387-8FA8-E8E9932E1965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingAPI.Repo", "SewingAPI.Repo\SewingAPI.Repo.csproj", "{09342B29-C774-4A30-B51F-F29B3906A7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingAPI.Service", "SewingAPI.Service\SewingAPI.Service.csproj", "{C4172A7D-95AB-4DC6-B8B7-7208A6FF70D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED729BFD-DDB1-48DD-BE1D-BCB87DEBDF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED729BFD-DDB1-48DD-BE1D-BCB87DEBDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED729BFD-DDB1-48DD-BE1D-BCB87DEBDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED729BFD-DDB1-48DD-BE1D-BCB87DEBDF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4D9F56-F76A-4387-8FA8-E8E9932E1965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4D9F56-F76A-4387-8FA8-E8E9932E1965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4D9F56-F76A-4387-8FA8-E8E9932E1965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4D9F56-F76A-4387-8FA8-E8E9932E1965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09342B29-C774-4A30-B51F-F29B3906A7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09342B29-C774-4A30-B51F-F29B3906A7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09342B29-C774-4A30-B51F-F29B3906A7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09342B29-C774-4A30-B51F-F29B3906A7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4172A7D-95AB-4DC6-B8B7-7208A6FF70D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4172A7D-95AB-4DC6-B8B7-7208A6FF70D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4172A7D-95AB-4DC6-B8B7-7208A6FF70D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4172A7D-95AB-4DC6-B8B7-7208A6FF70D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07993459-D86C-4D06-95BA-F59100FF8181}
+	EndGlobalSection
+EndGlobal
